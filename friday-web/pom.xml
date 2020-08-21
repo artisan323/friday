@@ -10,7 +10,7 @@
 
     <parent>
         <artifactId>friday</artifactId>
-        <groupId>cn.smartyouth.firday</groupId>
+        <groupId>cn.smartyouth.friday</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 

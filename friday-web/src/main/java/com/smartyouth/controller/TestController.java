@@ -1,6 +1,6 @@
 package com.smartyouth.controller;
 
-import cn.smartyouth.fiday.common.CommonResult;
+import cn.smartyouth.friday.common.util.CommonResult;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
