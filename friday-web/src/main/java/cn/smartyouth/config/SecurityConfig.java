@@ -1,4 +1,4 @@
-package com.smartyouth.config;
+package cn.smartyouth.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.smartyouth.util;
+package cn.smartyouth.util;
 
 import cn.hutool.core.date.DateUtil;
 import cn.hutool.core.util.StrUtil;

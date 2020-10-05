@@ -1,4 +1,4 @@
-package com.smartyouth;
+package cn.smartyouth;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
